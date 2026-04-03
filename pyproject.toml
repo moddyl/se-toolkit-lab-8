@@ -2,7 +2,7 @@
 members = [
     "backend",
     "mcp",
-    "qwen-code-api",
+#    "qwen-code-api",
     "nanobot",
 ]
 
